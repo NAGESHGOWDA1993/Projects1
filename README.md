@@ -41,6 +41,7 @@ On Master:
   
 step4: Deploy Calico network
 On Master:
+
 1  curl https://raw.githubusercontent.com/projectcalico/calico/v3.25.0/manifests/calico.yaml -O
 2   kubectl apply -f calico.yaml
 3 kubectl apply -f https://raw.githubusercontent.com/kubernetes/ingress-nginx/controller-v0.49.0/deploy/static/provider/baremetal/deploy.yaml
