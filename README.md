@@ -1,4 +1,4 @@
-How to install  kubernets cluster on Ubuntu 20.04 using Kubeadm method without any errors within 5minutes on AWS EC2 instance 
+How to install  kubernetes cluster on Ubuntu 20.04 using Kubeadm method without any errors within 5minutes on AWS EC2 instance 
 
 
 Prerequisites :
